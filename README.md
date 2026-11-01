@@ -1,4 +1,4 @@
-## This is my stuff
+## I'm Rahul, and this is my stuff
 
 <img src="koi/koi.gif" width="256" alt="My koi" />
 
